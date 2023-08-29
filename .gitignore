@@ -44,4 +44,4 @@ app.*.map.json
 /android/app/release
 
 # Ignoring API Key
-.weather_forecast_app_flutter/lib/constants/secret_api_key.dart
+/lib/constants/secret_api_key.dart
